@@ -1,0 +1,9 @@
+*
+!/.gitignore
+!/LICENSE
+!/README.md
+!/assets
+!/assets/*
+!/compile.sh
+!/hwconf
+!/hwconf/*
